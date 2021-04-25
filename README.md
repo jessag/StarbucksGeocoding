@@ -12,4 +12,5 @@ Data sources were: starbucks_address.csv and AZ_zipcodes.shp.
 [AZ_zipcodes.zip](https://github.com/jessag/StarbucksGeocoding/files/6272404/AZ_zipcodes.zip)
 
 
-![Uploading starbucks.png…]()
+![Uploading starbucks![starbucks_resize2](https://user-images.githubusercontent.com/54545486/116004677-a83bf800-a5b8-11eb-99f2-29080530afe5.png)
+.png…]()
