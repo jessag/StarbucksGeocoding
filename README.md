@@ -18,3 +18,7 @@ AZ_zipcodes.shp: Shapefile with Arizona zipcode boundaries.
 [AZ_zipcodes.zip](https://github.com/jessag/StarbucksGeocoding/files/6272404/AZ_zipcodes.zip)
 
 ![starbucks](https://user-images.githubusercontent.com/54545486/116004689-b558e700-a5b8-11eb-82e6-5ffe0b11dd24.png)
+
+
+
+![SB_STORE](https://user-images.githubusercontent.com/54545486/116281337-794f8e80-a73e-11eb-813f-530c857b1aa8.JPG)
