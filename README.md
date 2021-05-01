@@ -8,7 +8,7 @@ Class: GIS 322
 
 ## Data sources 
 
-starbucks_address_.csv: All Arizona Starbucks street addresses. 
+starbucks_address.csv: All Arizona Starbucks street addresses. 
 
 AZ_zipcodes.shp: Shapefile with Arizona zipcode boundaries.
 
