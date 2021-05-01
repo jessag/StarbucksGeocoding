@@ -2,7 +2,7 @@
 
 
 ## Description
-All Arizona Starbucks locations were geocoded (converted from normal address to longitude and latitude) using the Bing API. This data set was then merged spatially with an Arizona zipcode shapefile. The number of Starbucks in each zipcode were counted. The consequent data file was then used to produce a choropleth map using Matplotlib.
+All Arizona Starbucks locations were geocoded (converted from normal addresses to longitude and latitude) using the Bing API. This data set was then merged spatially with an Arizona zipcode shapefile. The number of Starbucks in each zipcode were counted. The consequent data file was then used to produce a choropleth map using Matplotlib.
 Class: GIS 322 
 
 
